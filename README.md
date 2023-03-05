@@ -1,4 +1,4 @@
-<h1 align="center">❓ | Geus</h1>
+<h1 align="center">❓ | Geuss</h1>
 
 ### Une petite application pour deviner le bon nombre fait en dart/flutter :)
 
