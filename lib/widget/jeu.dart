@@ -156,7 +156,7 @@ class JeuState extends State<Jeu> {
         etat = "🎉 | Bravo !";
         alert(
             "🎉 | Félicitation",
-            " 🎉 Bravo , le nombre était ${random_number}\n 🎉. Vous avez reussi en ${tentative - 1} tentatives !",
+            " 🎉 Bravo , le nombre était ${random_number}\n 🎉. Vous avez reussi en ${tentative} tentatives !",
             true);
       });
     }
